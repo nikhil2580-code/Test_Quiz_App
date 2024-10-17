@@ -1,0 +1,355 @@
+[
+  {
+    "id": "1",
+    "title": "Kotlin Basics",
+    "subtitle": "Introduction to Kotlin",
+    "time": "10",
+    "questionList": [
+      {
+        "question": "What is Kotlin primarily used for?",
+        "options": [
+          "Mobile Development",
+          "Data Science",
+          "Game Development",
+          "Machine Learning"
+        ],
+        "correct_answer": "Mobile Development"
+      },
+      {
+        "question": "Which company developed Kotlin?",
+        "options": [
+          "Google",
+          "JetBrains",
+          "Microsoft",
+          "Apple"
+        ],
+        "correct_answer": "JetBrains"
+      },
+      {
+        "question": "Kotlin runs on which platform?",
+        "options": [
+          "JVM",
+          "Node.js",
+          "iOS",
+          "Python Interpreter"
+        ],
+        "correct_answer": "JVM"
+      },
+      {
+        "question": "Which keyword is used to declare a variable in Kotlin?",
+        "options": [
+          "var",
+          "val",
+          "const",
+          "let"
+        ],
+        "correct_answer": "var"
+      },
+      {
+        "question": "Which is the correct way to declare a function in Kotlin?",
+        "options": [
+          "fun myFunction()",
+          "function myFunction()",
+          "def myFunction()",
+          "fn myFunction()"
+        ],
+        "correct_answer": "fun myFunction()"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Programming",
+    "subtitle": "Basic Programming Concepts",
+    "time": "15",
+    "questionList": [
+      {
+        "question": "Java is a?",
+        "options": [
+          "Computer",
+          "Language",
+          "Logo",
+          "Program"
+        ],
+        "correct_answer": "Language"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Markup Language",
+          "HyperText Machine Language",
+          "HighText Machine Language"
+        ],
+        "correct_answer": "HyperText Markup Language"
+      },
+      {
+        "question": "Which of the following is not a programming language?",
+        "options": [
+          "Python",
+          "Java",
+          "HTML",
+          "C++"
+        ],
+        "correct_answer": "HTML"
+      },
+      {
+        "question": "What is the main purpose of a compiler?",
+        "options": [
+          "To execute code",
+          "To translate code into machine language",
+          "To debug code",
+          "To write code"
+        ],
+        "correct_answer": "To translate code into machine language"
+      },
+      {
+        "question": "What symbol is used to denote a comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/* */",
+          "<!-- -->"
+        ],
+        "correct_answer": "#"
+      },
+      {
+        "question": "Which data structure uses LIFO?",
+        "options": [
+          "Queue",
+          "Stack",
+          "Array",
+          "Linked List"
+        ],
+        "correct_answer": "Stack"
+      },
+      {
+        "question": "What does SQL stand for?",
+        "options": [
+          "Structured Query Language",
+          "Schematic Query Language",
+          "Simple Query Language",
+          "Standard Query Language"
+        ],
+        "correct_answer": "Structured Query Language"
+      },
+      {
+        "question": "Which of the following is an example of a loop?",
+        "options": [
+          "if statement",
+          "for loop",
+          "function",
+          "variable"
+        ],
+        "correct_answer": "for loop"
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "title": "Web Development",
+    "subtitle": "Introduction to Web Technologies",
+    "time": "12",
+    "questionList": [
+      {
+        "question": "HTML stands for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Markup Language",
+          "HyperText Machine Language",
+          "HyperText Multi Language"
+        ],
+        "correct_answer": "HyperText Markup Language"
+      },
+      {
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "options": [
+          "<link>",
+          "<a>",
+          "<href>",
+          "<hyperlink>"
+        ],
+        "correct_answer": "<a>"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "options": [
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets",
+          "Creative Style Sheets"
+        ],
+        "correct_answer": "Cascading Style Sheets"
+      },
+      {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+          "Django",
+          "Ruby on Rails",
+          "React",
+          "Laravel"
+        ],
+        "correct_answer": "React"
+      },
+      {
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "options": [
+          "To define the body of the document",
+          "To contain meta-information about the document",
+          "To display the title of the document",
+          "To include styles and scripts"
+        ],
+        "correct_answer": "To contain meta-information about the document"
+      },
+      {
+        "question": "Which property is used to change the font of an element in CSS?",
+        "options": [
+          "font-style",
+          "font-weight",
+          "font-family",
+          "text-font"
+        ],
+        "correct_answer": "font-family"
+      }
+    ]
+  }
+,
+  {
+    "id": "4",
+    "title": "AI",
+    "subtitle": "Basic Concepts in Artificial Intelligence",
+    "time": "18",
+    "questionList": [
+      {
+        "question": "What does AI stand for?",
+        "options": [
+          "Artificial Intelligence",
+          "Automated Integration",
+          "Artificial Integration",
+          "Automated Intelligence"
+        ],
+        "correct_answer": "Artificial Intelligence"
+      },
+      {
+        "question": "Which of the following is a type of machine learning?",
+        "options": [
+          "Supervised Learning",
+          "Descriptive Learning",
+          "Generative Learning",
+          "Manual Learning"
+        ],
+        "correct_answer": "Supervised Learning"
+      },
+      {
+        "question": "What is the primary goal of natural language processing (NLP)?",
+        "options": [
+          "To understand and generate human language",
+          "To translate programming languages",
+          "To enhance computer graphics",
+          "To optimize algorithms"
+        ],
+        "correct_answer": "To understand and generate human language"
+      },
+      {
+        "question": "Which algorithm is commonly used for classification tasks in AI?",
+        "options": [
+          "Linear Regression",
+          "K-Nearest Neighbors",
+          "Gradient Descent",
+          "Principal Component Analysis"
+        ],
+        "correct_answer": "K-Nearest Neighbors"
+      },
+      {
+        "question": "What is a neural network?",
+        "options": [
+          "A type of database",
+          "A computational model inspired by the human brain",
+          "A programming language",
+          "A hardware component"
+        ],
+        "correct_answer": "A computational model inspired by the human brain"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Science",
+    "subtitle": "Biology Basics",
+    "time": "10",
+    "questionList": [
+      {
+        "question": "What is the basic unit of life?",
+        "options": [
+          "Tissue",
+          "Organ",
+          "Cell",
+          "Organism"
+        ],
+        "correct_answer": "Cell"
+      },
+      {
+        "question": "Which process do plants use to convert sunlight into energy?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Digestion",
+          "Fermentation"
+        ],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the primary function of red blood cells?",
+        "options": [
+          "To fight infections",
+          "To carry oxygen",
+          "To regulate temperature",
+          "To clot blood"
+        ],
+        "correct_answer": "To carry oxygen"
+      },
+      {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "options": [
+          "Lung",
+          "Kidney",
+          "Heart",
+          "Liver"
+        ],
+        "correct_answer": "Heart"
+      },
+      {
+        "question": "What type of macromolecule are enzymes?",
+        "options": [
+          "Carbohydrates",
+          "Proteins",
+          "Lipids",
+          "Nucleic Acids"
+        ],
+        "correct_answer": "Proteins"
+      },
+      {
+        "question": "Which part of the cell contains the genetic material?",
+        "options": [
+          "Cytoplasm",
+          "Nucleus",
+          "Cell membrane",
+          "Mitochondria"
+        ],
+        "correct_answer": "Nucleus"
+      },
+      {
+        "question": "What is the process of cell division called?",
+        "options": [
+          "Mitosis",
+          "Meiosis",
+          "Fission",
+          "Replication"
+        ],
+        "correct_answer": "Mitosis"
+      }
+    ]
+  }
+
+]
